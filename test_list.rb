@@ -15,3 +15,5 @@ test_list.insert_sorted(9)
 test_list.each do |y|
   puts y.data
 end
+
+puts "test"
